@@ -16,7 +16,7 @@ class LoginView extends StatelessWidget {
               Colors.blue.shade800,
               Colors.blue.shade400,
               Colors.blue.shade200
-            ],
+             ],
           ),
         ),
         child: Column(
