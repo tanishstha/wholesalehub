@@ -1,0 +1,1 @@
+ C:\\Users\\dell\\Desktop\\flutter\ wholesale\ hub\\wholesalehub\\.dart_tool\\flutter_build\\1d068a34d67ca307e39e62be82cb7557\\native_assets.yaml: 
